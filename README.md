@@ -1,5 +1,5 @@
 
-Data Warehouse Project
+E-Commerce SQL Data Warehouse Project
 
 
 Welcome to the E-Commerce SQL Data Warehouse!
